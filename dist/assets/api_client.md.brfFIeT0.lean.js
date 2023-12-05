@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as i,R as t}from"./chunks/framework.fQ6hEwak.js";const b=JSON.parse('{"title":"Client","description":"","frontmatter":{},"headers":[],"relativePath":"api/client.md","filePath":"api/client.md"}'),n={name:"api/client.md"},l=t("",16),s=[l];function o(d,r,c,h,p,u){return a(),i("div",null,s)}const m=e(n,[["render",o]]);export{b as __pageData,m as default};
