@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: `/Snap/`,
+  base: `/Snap`,
   title: "Snap",
   description: "An AIO advanced grid placement class.",
   themeConfig: {
