@@ -31,6 +31,6 @@ local data = {
 Snap.Init(data)
 ```
 
-:::tip
+::: tip
 You must define your building data with all your buildings pieces and an empty dimensions table beforehand or it will error
 :::
