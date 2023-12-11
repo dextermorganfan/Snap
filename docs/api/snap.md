@@ -13,7 +13,7 @@ Initialize information about the grids/plots in your game.
     - `plotSize` (number): The size of the plot.
     - `buildingPieces` (Folder): Folder where all of your  building pieces are.
     - `buildingData` (Module): Data defining the dimensions of building pieces, along with other informations (optional)
-    - `key_1` (string): Key identifier for checking where placement started..
+    - `key_1` (string): Key identifier for checking where placement started
     - `key_2` (string): Key identifier for checking occupied cells.
 
 ### Usage:
@@ -30,3 +30,7 @@ local data = {
 
 Snap.Init(data)
 ```
+
+:::tip
+You must define your building data with all your buildings pieces and an empty dimensions table beforehand or it will error
+:::
