@@ -1,0 +1,1 @@
+import{_ as i,o as s,c as a,R as e}from"./chunks/framework.CHKX9sr8.js";const g=JSON.parse('{"title":"Snap","description":"","frontmatter":{},"headers":[],"relativePath":"api/snap.md","filePath":"api/snap.md"}'),n={name:"api/snap.md"},t=e("",8),l=[t];function h(p,d,r,k,o,c){return s(),a("div",null,l)}const u=i(n,[["render",h]]);export{g as __pageData,u as default};
